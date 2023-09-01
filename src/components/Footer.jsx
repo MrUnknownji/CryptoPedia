@@ -22,6 +22,19 @@ const Footer = () => {
             We are one of the best crypto trading app in India, we provide our
             guidence at a very cheap price.
           </Text>
+          <Text
+            fontSize={"sm"}
+            letterSpacing={"widest"}
+            textAlign={["center", "left"]}
+          >
+            Special thanks to{" "}
+            <a href="https://www.coingecko.com/" style={{display:'inline-block'}}>
+              <Text color={"blue"} fontWeight={"bold"}>
+                CoinGecko
+              </Text>
+            </a>{" "}
+            for powering our cryptocurrency data!{" "}
+          </Text>
         </VStack>
         <VStack>
           <Avatar boxSize={28} mt={[4, 0]} src={avatarSrc} />
