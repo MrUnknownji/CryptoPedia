@@ -11,3 +11,5 @@ Are you passionate about cryptocurrencies? Our platform provides you with the la
 🎨 Beautiful Themes: Enjoy a visually appealing experience with both light and dark theme options.
 
 Ready to dive into the crypto world? Explore CryptoPedia now at https://crypto-pedia-three.vercel.app/ and start your cryptocurrency journey today!
+
+Special thanks to CoinGecko for powering our cryptocurrency data!
