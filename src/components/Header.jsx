@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { Button, HStack, Image } from "@chakra-ui/react";
-import btcPng from "../assets/btc.png";
+import btcPng from "../assets/btc_logo_no_bg.png";
 import { motion } from "framer-motion";
 
 const Header = () => {
